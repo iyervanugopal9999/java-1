@@ -19,5 +19,11 @@ class SpringrestApplicationTests {
 	void contextLoads() {
 		system.out.println("outlput");
 	}
+	
+	void contextLoads() {
+		system.out.println("outlput");
+	}
+}
+}
 }
 }
