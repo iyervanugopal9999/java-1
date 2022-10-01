@@ -15,6 +15,11 @@ class SpringrestApplicationTests {
 	void contextLoads() {
 		system.out.println("outlput");
 	}
+	import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringrestAppli
 	@Test
 	void contextLoads() {
 		system.out.println("outlput");
