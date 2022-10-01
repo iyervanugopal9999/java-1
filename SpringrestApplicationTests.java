@@ -10,4 +10,9 @@ class SpringrestApplicationTests {
 	void contextLoads() {
 	}
 
+	
+	@Test
+	void contextLoads() {
+		system.out.println("outlput");
+	}
 }
